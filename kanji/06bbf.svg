@@ -40,15 +40,15 @@ kvg:type CDATA #IMPLIED >
 	<g id="kvg:06bbf-g1" kvg:position="left" kvg:phon="尸+共">
 		<g id="kvg:06bbf-g2" kvg:element="尸" kvg:position="tare">
 			<path id="kvg:06bbf-s1" kvg:type="㇕c" d="M17.97,18.69c1.5,0.56,3.41,1.05,5,0.94c7.68-0.55,18.07-2.32,22.64-2.85c2.25-0.26,4.21,0.37,3.81,2.9c-0.55,3.57-1.69,6.53-3,12.45"/>
-			<path id="kvg:06bbf-s2" kvg:type="㇐b" d="M22.59,35.02c3.45-0.15,15.17-1.76,21.92-2.4c1.69-0.16,3.08-0.27,3.98-0.31"/>
-			<path id="kvg:06bbf-s3" kvg:type="㇒" d="M20.41,19.84c1,1,1.25,2.19,1.26,3.41C21.79,45.06,22,72.38,9.75,87.5"/>
+			<path id="kvg:06bbf-s2" kvg:type="㇐b" d="M21.59,35.02C25.04,34.87 36.76,33.26 43.51,32.62C45.2,32.46 46.59,32.35 47.49,32.31"/>
+			<path id="kvg:06bbf-s3" kvg:type="㇒" d="M19.41,19.67C20.41,20.67 20.66,21.86 20.67,23.08C20.79,44.89 21,72.21 8.75,87.33"/>
 		</g>
 		<g id="kvg:06bbf-g3" kvg:element="共" kvg:position="tarec">
 			<g id="kvg:06bbf-g4" kvg:position="top">
-				<path id="kvg:06bbf-s4" kvg:type="㇐" d="M23.67,52.28c1.7,0.35,2.78,0.02,4.07-0.17c4.87-0.7,15.91-2.2,20.99-2.53c1.1-0.07,2.21-0.13,3.3,0.1"/>
+				<path id="kvg:06bbf-s4" kvg:type="㇐" d="M24.5,52.28C25.7,52.63 26.45,52.3 27.74,52.11C32.61,51.41 43.65,49.91 48.73,49.58C49.83,49.51 50.94,49.45 52.03,49.68"/>
 				<path id="kvg:06bbf-s5" kvg:type="㇑a" d="M29.67,42.94c0.82,0.82,1.11,2.19,1.19,3.06c0.44,5.43,0.77,15.33,0.97,19.94"/>
 				<path id="kvg:06bbf-s6" kvg:type="㇑a" d="M45.3,39.25c0.58,1,0.83,2,0.71,3.26c-0.76,8.42-1.55,12.69-2.41,21.63"/>
-				<path id="kvg:06bbf-s7" kvg:type="㇐" d="M21.87,68c2,0.5,4.04,0.21,5.66-0.12c6.22-1.26,15.22-2.76,22.47-3.34c1.81-0.15,3.6-0.25,5.38,0.28"/>
+				<path id="kvg:06bbf-s7" kvg:type="㇐" d="M23.36,68.33C23.87,68.5 25.91,68.21 27.53,67.88C33.75,66.62 42.75,65.12 50,64.54C51.81,64.39 53.6,64.29 53.39,64.65"/>
 			</g>
 			<g id="kvg:06bbf-g5" kvg:element="八" kvg:position="bottom">
 				<path id="kvg:06bbf-s8" kvg:type="㇒" d="M28,76.51c0.03,0.38,0.07,0.98-0.07,1.53c-0.82,3.22-5.93,9.95-11.65,15.13"/>
@@ -72,8 +72,8 @@ kvg:type CDATA #IMPLIED >
 </g>
 <g id="kvg:StrokeNumbers_06bbf" style="font-size:8;fill:#808080">
 	<text transform="matrix(1 0 0 1 21.50 16.50)">1</text>
-	<text transform="matrix(1 0 0 1 26.50 31.55)">2</text>
-	<text transform="matrix(1 0 0 1 13.50 28.63)">3</text>
+	<text transform="matrix(1 0 0 1 25.50 31.55)">2</text>
+	<text transform="matrix(1 0 0 1 12.50 28.46)">3</text>
 	<text transform="matrix(1 0 0 1 24.50 50.50)">4</text>
 	<text transform="matrix(1 0 0 1 31.50 42.50)">5</text>
 	<text transform="matrix(1 0 0 1 37.50 41.50)">6</text>
