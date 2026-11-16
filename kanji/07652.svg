@@ -62,7 +62,7 @@ kvg:type CDATA #IMPLIED >
 				</g>
 				<g id="kvg:07652-g8" kvg:element="刂" kvg:variant="true" kvg:original="刀">
 					<path id="kvg:07652-s13" kvg:type="㇑" d="M68.73,53.11c0.71,0.71,0.84,1.77,0.84,2.94c0,1.83,0.11,6.66,0.06,9.7c-0.03,1.8-0.07,3.22-0.07,3.93"/>
-					<path id="kvg:07652-s14" kvg:type="㇚" d="M80.91,50.66c0.78,0.78,1.09,1.72,1.09,3.19c0,5.64,0.09,15.93,0.09,17.85c0,7.28-2.68,1.89-3.88,0.51"/>
+					<path id="kvg:07652-s14" kvg:type="㇚" d="M80.91,50.79C81.69,51.57 82,52.51 82,53.98C82,59.62 82.09,69.91 82.09,71.83C82.09,79.11 78.88,74.78 74.36,71.94"/>
 				</g>
 			</g>
 		</g>
@@ -89,7 +89,7 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 44.00 59.25)">11</text>
 	<text transform="matrix(1 0 0 1 44.00 66.25)">12</text>
 	<text transform="matrix(1 0 0 1 60.25 52.25)">13</text>
-	<text transform="matrix(1 0 0 1 71.25 50.25)">14</text>
+	<text transform="matrix(1 0 0 1 71.25 50.38)">14</text>
 	<text transform="matrix(1 0 0 1 28.25 84.25)">15</text>
 	<text transform="matrix(1 0 0 1 39.25 91.25)">16</text>
 	<text transform="matrix(1 0 0 1 53.25 85.38)">17</text>
